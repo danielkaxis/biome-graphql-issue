@@ -1,0 +1,8 @@
+type Foo {
+    """
+    the empty line nbr 4 has no indentation
+
+    Some info about bar
+    """
+    bar: String!
+}
